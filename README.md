@@ -4,3 +4,5 @@
 To execute, you must add:
 
 ```npm install react```
+
+Version 2
